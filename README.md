@@ -1,15 +1,12 @@
-## Hi there 👋
+## Hello 🌎, I'm Diego Teran
+
+<h3 align="center">A passionate developer</h3>
+
+ - 🌱 I’m currently learning React JS, Django, Node JS, Java Scripts
+ - 📫 How to reach me diegosoftnet@gmail.com
+ - 👨‍💻 My project main are available at  https://play.google.com/store/apps/details?id=hooponopono.apliihd&pcampaignid=web_share
 
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 
  ##
@@ -22,10 +19,16 @@
 
  ##
 
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegosoft&theme=tokyonight" alt="diegosoft" /></p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,django,mysql,postgres,nodejs,react)](https://skillicons.dev)
+ ##
+
+Languages and Tools: <h4>
 
 ##
-Tols: <h4>
 
-[![My Skills](https://skillicons.dev/icons?i=postman,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,django,mysql,postgres,nodejs,react,postman,visualstudio)](https://skillicons.dev)
+
+##
+
+
