@@ -12,7 +12,7 @@
 
  ##
 <a href="https://github.com/diegosoft/github-readme-stats">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=diegosoft&show_icons=true&theme=tokyonight" />
+  <img height=200 with=10 align="left" src="https://github-readme-stats.vercel.app/api?username=diegosoft&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/diegosoft/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegosoft&layout=compact&langs_count=8&card_width=320&theme=tokyonight"/>
