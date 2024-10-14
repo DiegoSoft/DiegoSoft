@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer</h3>
 
  - 🌎  I'm from Venezuela 
- - 🌱 I’m currently learning React JS, Django, Node JS, Java Scripts
+ - 🌱 I’m currently learning React JS, React native, Django, Node JS, JavaScript
  - 📫 How to reach me diegosoftnet@gmail.com
  - 👨‍💻 My project main are available at  https://play.google.com/store/apps/details?id=hooponopono.apliihd&pcampaignid=web_share
 
