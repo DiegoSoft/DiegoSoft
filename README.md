@@ -12,15 +12,15 @@
 
  ##
 <a href="https://github.com/diegosoft/github-readme-stats">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=diegosoft&show_icons=true&theme=tokyonight&card_width=300" />
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=diegosoft&show_icons=true&theme=algolia&card_width=300" />
 </a>
 <a href="https://github.com/diegosoft/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegosoft&layout=compact&langs_count=8&card_width=320&theme=tokyonight"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegosoft&layout=compact&langs_count=8&card_width=320&theme=algolia"/>
 </a>
 
  ##
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegosoft&theme=tokyonight" alt="diegosoft" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegosoft&theme=algolia" alt="diegosoft" /></p>
 
  ##
 
