@@ -7,7 +7,7 @@
  - 📫 How to reach me diegosoftnet@gmail.com
  - 👨‍💻[ My project main are available at ] (https://play.google.com/store/apps/details?id=hooponopono.apliihd&pcampaignid=web_share)
 
-
+ [I'm an inline-style link](https://www.google.com)
 
 
  ##
