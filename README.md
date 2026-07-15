@@ -12,10 +12,8 @@
  ##
   [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=DiegoSoft)](https://github.com/stats-organization/github-stats-extended)
  ##
-
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegosoft&theme=algolia" alt="diegosoft" /></p>
-
- ##
+ <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegosoft&theme=algolia" alt="diegosoft" /></p>
+##
 
 Languages and Tools: <h4>
 
