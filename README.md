@@ -9,11 +9,7 @@
 
 
  ##
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DiegoSoft" alt="GitHub Streak" /></a>
-<a href="https://github.com/diegosoft/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegosoft&layout=compact&langs_count=8&card_width=320&theme=algolia"/>
-</a>
-
+  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=DiegoSoft)](https://github.com/stats-organization/github-stats-extended)
  ##
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegosoft&theme=algolia" alt="diegosoft" /></p>
