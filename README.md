@@ -5,7 +5,8 @@
  - 🌎  I'm from Venezuela 
  - 🌱 I’m currently learning React JS, React native, Django, Node JS, JavaScript, ApiRest
  - 📫 How to reach me diegosoftnet@gmail.com
- - 👨‍💻 My project main are available at  [Ho'ponopono LC ](https://play.google.com/store/apps/details?id=hooponopono.apliihd&pcampaignid=web_share)
+ - 👨‍💻 Project available (Django)  [Ho'ponopono LC ](https://play.google.com/store/apps/details?id=hooponopono.apliihd&pcampaignid=web_share),        
+ - 👨‍💻 Project available  (React native)  [Post Task ](https://play.google.com/store/apps/details?id=com.diegosoft.PostiTask)
 
 
  ##
