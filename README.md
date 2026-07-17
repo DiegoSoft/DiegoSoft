@@ -7,7 +7,7 @@
  - 📫 How to reach me diegosoftnet@gmail.com
  - 👨‍💻 Project available (Django)  [Ho'ponopono LC ](https://play.google.com/store/apps/details?id=hooponopono.apliihd&pcampaignid=web_share),        
  - 👨‍💻 Project available  (React native)  [Post Task ](https://play.google.com/store/apps/details?id=com.diegosoft.PostiTask)
- - 👨‍💻 Project available  (ReactJS)  [Post Task ](https://pousada-frontend.onrender.com/)
+ - 👨‍💻 Project available  (ReactJS)  [Gestão de Pousada ](https://pousada-frontend.onrender.com/)
 
 
  ##
