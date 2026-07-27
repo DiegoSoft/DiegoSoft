@@ -23,7 +23,7 @@ Languages and Tools: <h4>
 
 ##
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,django,mysql,postgres,nodejs,react,postman,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,django,mysql,postgres,nodejs,react,git,github,visualstudio)](https://skillicons.dev)
 
 ##
 
