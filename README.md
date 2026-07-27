@@ -11,7 +11,7 @@
 
 
  ##
-  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=DiegoSoft)](https://github.com/stats-organization/github-stats-extended)
+  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=DiegoSoft&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
  ##
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DiegoSoft&theme=tokyonight&hide_border=false&short_numbers=false)](https://git.io/streak-stats)
 ##
