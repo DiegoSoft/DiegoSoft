@@ -13,8 +13,10 @@
  ##
   [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=DiegoSoft)](https://github.com/stats-organization/github-stats-extended)
  ##
- <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegosoft&theme=algolia" alt="diegosoft" /></p>
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DiegoSoft&theme=tokyonight&hide_border=false&short_numbers=false)](https://git.io/streak-stats)
 ##
+
+
 
 Languages and Tools: <h4>
 
